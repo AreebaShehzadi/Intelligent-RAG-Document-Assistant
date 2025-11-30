@@ -3,6 +3,7 @@ langchain-community
 pypdf
 faiss-cpu
 tensorflow
+tf-keras
 python-dotenv
 streamlit
 langgraph
