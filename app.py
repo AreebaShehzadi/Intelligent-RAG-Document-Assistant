@@ -179,5 +179,4 @@ if user_query and vector_store:  # Only run if a PDF is uploaded
 elif user_query and not vector_store:
     st.info("Please upload a PDF first to start the chat!")
 
-#python -m streamlit run app.py
-#ollama run phi3
+
