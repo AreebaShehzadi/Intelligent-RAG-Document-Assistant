@@ -1,9 +1,10 @@
+streamlit
 langchain
 langchain-community
+langchain-core
+langchain-huggingface
 pypdf
 faiss-cpu
-tensorflow
-tf-keras
-python-dotenv
-streamlit
+sentence-transformers
 langgraph
+huggingface-hub
